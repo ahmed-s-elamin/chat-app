@@ -8,7 +8,7 @@ import Input from "../Input/Input";
 
 import "./Chat.css";
 
-const ENDPOINT = "https://lemonade-chat.herokuapp.com/"; //"http://localhost:5000/"; while in production
+const ENDPOINT = "https://wazz-ap.herokuapp.com/"; //"http://localhost:5000/"; while in production
 
 let socket;
 

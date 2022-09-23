@@ -2,4 +2,4 @@
 
 using node.js, react.js and socket.io
 
-### [Live Site](https://wuzzapp.netlify.com)
+### [Live Site](https://wuzzap.netlify.com)
